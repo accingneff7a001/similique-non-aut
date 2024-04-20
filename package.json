@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@accingneff7a001/similique-non-aut",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/accingneff7a001/similique-non-aut.git"
   },
   "dependencies": {
+    "@accingneff7a001/iusto-voluptatem-minus": "^1.0.0",
+    "@accingneff7a001/maiores-fugit-nobis": "^1.0.0",
+    "@accingneff7a001/natus-ipsum-maiores": "^1.0.0",
+    "@accingneff7a001/officiis-error-tempora": "^1.0.0",
+    "@accingneff7a001/quo-ut-nobis": "^1.0.0",
+    "@accingneff7a001/rerum-ut-laboriosam": "^1.0.0"
   }
 }
